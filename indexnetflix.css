@@ -71,7 +71,7 @@ nav button{
     margin-bottom: 20px;
 }
 .email-signup{
-    background: #fff;
+    background: transparent;
     border-radius: 4px;
     display: flex;
     align-items: center;
